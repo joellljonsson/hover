@@ -1,0 +1,56 @@
+
+body{
+    background-color: orange;
+}
+
+
+*{
+    border: 1px solid brown;
+    margin: 1%;
+}
+
+a{
+    display: block;
+}
+
+p{
+    font-size: 30px;
+}
+
+img{
+    display: inline;
+}
+
+h1{
+    background-color: brown;
+    color: white;
+}
+
+#p1{
+    color: white;
+}
+
+.hoverP:hover{
+    font-size: 33px;
+    background-color: brown;
+    text-transform: uppercase;
+}
+
+button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+button:hover{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
+
+img{
+    opacity: 0.4;
+}
+
+img:hover{
+    opacity: 1.0;
+}
